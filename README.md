@@ -52,7 +52,7 @@ React  •  Laravel  •  GitHub Actions  •  Cloud (AWS/Azure)  •  Unix/Linu
 ## 📬 Contact  
 - 🌐 Portfolio & blog : [Ici](https://babacartoure.vercel.app)  
 - 📧 Email : toure.babacar35lv.as@gmail.com
-- 🌐 LinkedIn : [Ici](https://linkedin.com/in/babacar-toure)  
+- 🌐 LinkedIn : [Ici](https://www.linkedin.com/in/babacar-toure-ai/) 
 
 ---
 
