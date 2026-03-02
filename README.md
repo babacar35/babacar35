@@ -15,7 +15,7 @@ Je suis particulièrement motivé par l’optimisation de processus métiers et 
 ---
 
 ## 🚀 Ce que je construis  
-- Une **plateforme Web & mobile** de suivi des poches de sang au Sénégal (prévision des stocks, distribution optimisée)  
+<!--- Une **plateforme Web & mobile** de suivi des poches de sang au Sénégal (prévision des stocks, distribution optimisée)   -->
 - Des outils internes Data/IA pour l’analyse des besoins et comportements utilisateurs  
 - Un portfolio complet de projets IA & LLM : consulte-le d’ici ➜ [Mon Portofolio](https://babacartoure.vercel.app)
 
