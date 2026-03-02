@@ -1,6 +1,6 @@
 # Salut ! 👋 Je suis **Babacar Touré**
 
-**AI & Data Engineer** – Diplômé de Master 2 *Data Engineering & AI* (soutenance imminente)  
+**AI & Data Engineer** – Diplômé de Master 2 *Data Engineering & AI*  
 📍 Basé à Dakar/Thies, Sénégal | 🇸🇳 Francophone
 
 ---
