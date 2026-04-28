@@ -45,7 +45,7 @@ React  •  Laravel  •  GitHub Actions  •  Cloud (AWS/Azure)  •  Unix/Linu
 ---
 
 ## 📄 Mon CV  
-[🔗 Télécharger mon CV – version française](./Mon_cv-master-pro2.pdf)
+[🔗 Télécharger mon CV – version française](./CV_BabacarToure_AI_Engineer.pdf)
 
 ---
 
